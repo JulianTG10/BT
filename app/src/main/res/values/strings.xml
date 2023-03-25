@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CLASE1503</string>
+    <string name="tvVersionAndroidLB">1.Version Android</string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvBluetooth">2. Bluetooth</string>
+    <string name="btnOn">On</string>
+    <string name="btnOff">Off</string>
+    <string name="tvLevelBaterryLB">3. LevelofBaterry</string>
+    <string name="tvStorageLB">4. Storage</string>
+    <string name="etNameFile">Name of File</string>
+    <string name="btnSaveFile">Save</string>
+    <string name="tvConectionLB">5.Conection</string>
+    <string name="tvConexion"></string>
+</resources>
